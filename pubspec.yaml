@@ -71,13 +71,18 @@ flutter:
     - assets/svg/
     - assets/png/
   fonts:
-    - family: Mulish
+    - family: Cairo
       fonts:
-        - asset: assets/font/Mulish-Regular.ttf
-        - asset: assets/font/Mulish-Medium.ttf
-        - asset: assets/font/Mulish-bold.ttf
-        - asset: assets/font/Mulish-light.ttf
-        - asset: assets/font/Mulish-Italic.ttf
+        - asset: assets/font/Cairo-Regular.ttf
+          weight: 400
+        - asset: assets/font/Cairo-Bold.ttf
+          weight: 700
+        - asset: assets/font/Cairo-Light.ttf
+          weight: 300
+        - asset: assets/font/Cairo-Medium.ttf
+          weight: 500
+        - asset: assets/font/Cairo-Black.ttf
+          weight: 900
 
   # To add assets to your application, add an assets section, like this:
   # assets:
