@@ -70,7 +70,7 @@ class MessageLookup extends MessageLookupByLibrary {
             MessageLookupByLibrary.simpleMessage("تأكيد كلمة المرور"),
         "contactVia": MessageLookupByLibrary.simpleMessage("الاتصال عبر"),
         "continueShopping":
-            MessageLookupByLibrary.simpleMessage("مواصلة التسوق"),
+            MessageLookupByLibrary.simpleMessage("تسوق الان"),
         "couponApplyValidation": MessageLookupByLibrary.simpleMessage(
             "الرجاء تحديد متجر لتطبيق الرمز الترويجي!"),
         "createNewPass":
@@ -121,7 +121,7 @@ class MessageLookup extends MessageLookupByLibrary {
         "getInTouch": MessageLookupByLibrary.simpleMessage("ابقى على تواصل"),
         "guest": MessageLookupByLibrary.simpleMessage("حساب زائر"),
         "hWtheProduct": MessageLookupByLibrary.simpleMessage("كيف كان المنتج؟"),
-        "home": MessageLookupByLibrary.simpleMessage("بيت"),
+        "home": MessageLookupByLibrary.simpleMessage("الرئسية"),
         "isRequired": MessageLookupByLibrary.simpleMessage("مطلوب!"),
         "justForYou": MessageLookupByLibrary.simpleMessage("فقط لك"),
         "language": MessageLookupByLibrary.simpleMessage("لغة"),
@@ -139,7 +139,7 @@ class MessageLookup extends MessageLookupByLibrary {
             MessageLookupByLibrary.simpleMessage("الحد الأدنى للإنفاق"),
         "more": MessageLookupByLibrary.simpleMessage("أكثر"),
         "mostSelling": MessageLookupByLibrary.simpleMessage("معظم البيع"),
-        "myCart": MessageLookupByLibrary.simpleMessage("عربتي"),
+        "myCart": MessageLookupByLibrary.simpleMessage("السلة"),
         "myOrder": MessageLookupByLibrary.simpleMessage("طلبي"),
         "myProfile": MessageLookupByLibrary.simpleMessage("ملفي"),
         "name": MessageLookupByLibrary.simpleMessage("اسم"),
@@ -268,7 +268,7 @@ class MessageLookup extends MessageLookupByLibrary {
         "youAreNotLoggedIn": MessageLookupByLibrary.simpleMessage(
             "ليس لديك حساب مسجل. يرجى تسجيل الدخول لأولا!"),
         "yourCartIsEmpty":
-            MessageLookupByLibrary.simpleMessage("عربة التسوق فارغة!"),
+            MessageLookupByLibrary.simpleMessage("سلة التسوق فارغة!"),
         "yourOrderHasBeenPlaced":
             MessageLookupByLibrary.simpleMessage("لقد تم تقديم طلبك!")
       };
